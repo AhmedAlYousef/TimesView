@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="TimesView">
+        <attr name="clockBackgroundColor" format="color" />
+        <attr name="clockTimeTextColor" format="color" />
+        <attr name="AMPMTextColor" format="color" />
+    </declare-styleable>
+</resources>
