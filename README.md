@@ -4,7 +4,7 @@
 
 This view can show time periods on an analog clock:
 
-<img src="images/00.jpg" alt="TimesView showing 4 time periods" width="200"/><br>
+<img src="images/00.jpg" alt="TimesView showing 4 time periods" width="400"/><br>
 (`TimesView` showing 4 time periods)
 
 ## Install
@@ -58,7 +58,7 @@ You can also select one of the periods in the list to make it more visible if ne
 timesView.selectTimePeriod(2);//selecting index 2
 ```
 
-<img src="images/01.jpg" alt="TimesView showing 4 time periods" width="200"/>
+<img src="images/01.jpg" alt="TimesView showing 4 time periods" width="400"/>
 
 You can then clear the selection:
 
