@@ -6,7 +6,7 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 28
     defaultConfig {
-        minSdkVersion 23
+        minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -26,7 +26,7 @@ publish {
     repoName = 'TimesView'
     groupId = 'me.ahmedy.android.timesview'
     artifactId = 'TimesView'
-    publishVersion = '1.0.1'
+    publishVersion = '1.0.2'
     desc = 'TimesView can show time periods on an analog clock'
     website = 'https://github.com/AhmedAlYousef/TimesView'
 }
@@ -34,9 +34,6 @@ publish {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.0.2'
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'androidx.test:runner:1.2.0'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 }
 
 
