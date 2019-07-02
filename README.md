@@ -14,7 +14,7 @@ In app bulid.gradle:
 ```
 dependencies {
     ...
-    implement 'me.ahmedy.android.timesview:1.0.1'
+    implement 'me.ahmedy.android.timesview:1.0.2'
 }
 ```
 
