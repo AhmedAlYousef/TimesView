@@ -2,7 +2,7 @@
 
 ## About
 
-This view can show time periods on an analog clock:
+This view can show time periods on an analog clock. The following image shows 4 time periods. This is useful for exapmle if you have some events in a day and you want to visualize them to get a sense of how long they are and whether they overlap or not. You may also customize each period color or select one of them to make it standout more.
 
 <img src="images/00.jpg" alt="TimesView showing 4 time periods" width="400"/><br>
 (`TimesView` showing 4 time periods)
