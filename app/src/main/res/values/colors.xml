@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#C54871</color>
-    <color name="colorPrimaryDark">#7E2343</color>
-    <color name="colorAccent">#FFFFFF</color>
+    <color name="clockBackground">#C54871</color>
 </resources>

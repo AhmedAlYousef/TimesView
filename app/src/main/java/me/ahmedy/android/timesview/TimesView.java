@@ -52,7 +52,7 @@ public class TimesView extends View {
         final TypedArray a = getContext().obtainStyledAttributes(
                 attrs, R.styleable.TimesView, defStyle, 0);
 
-        clockBackgroundColor = getResources().getColor(R.color.colorPrimary);
+        clockBackgroundColor = getResources().getColor(R.color.clockBackground);
 
         clockBackgroundColor = a.getColor(R.styleable.TimesView_clockBackgroundColor, clockBackgroundColor);
         clockTimeTextColor = a.getColor(R.styleable.TimesView_clockTimeTextColor, clockTimeTextColor);
